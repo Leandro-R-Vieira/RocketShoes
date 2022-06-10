@@ -6,11 +6,8 @@ import {
   MdAddCircleOutline, 
   MdDelete
 } from 'react-icons/md';
-
 import { formatPrice } from '../../util/format';
-
 import * as CartActions from '../../store/modules/cart/actions';
-
 import { Container, ProductTable, Total } from './styles';
 
 function Cart({ cart, total, removeFromCart, updateAmount }) {
