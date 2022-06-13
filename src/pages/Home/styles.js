@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import { darken } from 'polished';
+
 export const ProductList = styled.ul`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -32,7 +33,7 @@ export const ProductList = styled.ul`
     }
 
     button {
-      background: Blue;
+      background: #254e6b;
       color: #fff;
       border: 0;
       border-radius: 4px;
@@ -43,7 +44,7 @@ export const ProductList = styled.ul`
       transition: background 0.2s;
 
       &:hover {
-        background: ${darken(0.03, 'blue')}
+        background: ${darken(0.03, '#254e6b')}
       }
 
       div {

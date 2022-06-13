@@ -13,7 +13,7 @@ export const Container = styled.div`
     align-items: center;
 
     button {
-      background: blue;
+      background: #254e6b;
       color: #fff;
       border: 0;
       border-radius: 4px;
@@ -23,7 +23,7 @@ export const Container = styled.div`
       transition: background 0.2s;
 
       &:hover {
-        background: ${darken(0.03, 'blue')};
+        background: ${darken(0.03, '#254e6b')};
       }
     }
   }

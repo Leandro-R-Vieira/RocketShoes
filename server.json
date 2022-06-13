@@ -28,39 +28,39 @@
   "products": [
     {
       "id": 1,
-      "title": "Tênis de Caminhada Leve Confortável",
-      "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "title": "Tênis Nike Air Max AP",
+      "price": 519.9,
+      "image": "https://imgcentauro-a.akamaihd.net/900x900/96125251A1/tenis-nike-air-max-ap-masculino-img.jpg"
     },
     {
       "id": 2,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "title": "Tênis Evoltenn Easy-Style Preto e Amarelo",
       "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "image": "https://static.dafiti.com.br/p/Evoltenn-T%C3%AAnis-Evoltenn-Easy-Style-Preto-Amarelo-1382-3414617-1-zoom.jpg"
     },
     {
       "id": 3,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "title": "Tênis Nike Lebron Witness V - Azul Royal+Preto",
+      "price": 469.9,
+      "image": "https://static.lojanba.com/produtos/tenis-nike-lebron-witness-v/44/HZM-4279-544/HZM-4279-544_zoom1.jpg?ts=1626300263"
     },
     {
       "id": 5,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
-      "price": 139.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
+      "title": "Tênis Nike Giannis Immortality - Preto+Branco",
+      "price": 439.9,
+      "image": "https://static.lojanba.com/produtos/tenis-nike-giannis-immortality/32/2IC-3634-032/2IC-3634-032_zoom1.jpg?ts=1631637105"
     },
     {
       "id": 6,
-      "title": "Tênis Adidas Duramo Lite 2.0",
-      "price": 219.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
+      "title": "Tenis Puma Viz Runner bdp - branco e vermelho",
+      "price": 319.9,
+      "image": "https://www.andaraki.com.br/16757-large_default/tenis-puma-masculino-viz-runner-bdp---brancovermelho-19162310.jpg"
     },
     {
       "id": 4,
-      "title": "Tênis de Caminhada Leve Confortável",
-      "price": 179.9,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
+      "title": "Tênis Masculino Polo Joy Casual",
+      "price": 99.9,
+      "image": "https://static.netshoes.com.br/produtos/tenis-masculino-polo-joy-casual-em-lona/12/FSO-0021-012/FSO-0021-012_zoom1.jpg?ts=1587511966&ims=544x"
     }
   ]
 }
