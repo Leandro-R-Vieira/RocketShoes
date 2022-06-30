@@ -29,7 +29,8 @@ Adicione os produtos desejados ao carrinho e simule sua compra.
 
 ### `Demonstração`
 
-![GIF](https://imgur.com/gallery/Aby733f)
+![Rocketshoes-Google-Chrome-2022-06-30-09-45-59](https://user-images.githubusercontent.com/103189479/176688328-c2333595-87ef-4c68-bf76-ef42af2bc477.gif)
+
 
 ------------------------------------------------------------------
 
